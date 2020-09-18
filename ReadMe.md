@@ -2,8 +2,6 @@
 
 An application with sprite movement and animations
 
-![](D:\Documents\University\Game Programming\exercise 1\exercise1 - Ben Puhalski\screenshots\Screenshot Startup.png)
-
 ### How to play
 
 After running the application with either the windows or neko64 builds, use the arrow keys (left arrow, right arrow) to move the walking knight sprite to the left or the right inside the window.
@@ -121,12 +119,12 @@ These were used as movements for the left and right as well the slower variants 
 
 The following applications were used:
 
-- Sublime Text 3 <img src="D:\Documents\University\Game Programming\Sublime Text 3 logo.png" style="zoom:11%;" />
-- Blender (The background) <img src="D:\Documents\University\Game Programming\Blender Logo.png" style="zoom:3%;" />
-- Typora (ReadMe) <img src="D:\Documents\University\Game Programming\typora.png" style="zoom:13%;" />
-- HaxeFlixel<img src="D:\Documents\University\Game Programming\HaxeFlixelLogo.jpg" alt="HaxeFlixel" style="zoom:8%;" />
-- OBS Studio (Demo) <img src="D:\Documents\University\Game Programming\obs logo.png" style="zoom:11%;" />
-- HandBrake (Demo Compression) <img src="D:\Documents\University\Game Programming\handbrake logo.png" style="zoom:17%;" />
+- Sublime Text 3
+- Blender (The background) 
+- Typora (ReadMe) 
+- HaxeFlixel
+- OBS Studio (Demo) 
+- HandBrake (Demo Compression) 
 
 
 

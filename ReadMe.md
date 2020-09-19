@@ -1,4 +1,4 @@
-# <img src="D:\Documents\University\Game Programming\Lakehead Logo.jpg" style="zoom:25%;" /> Walking Sim (CS 4478 Ex 1)
+# Walking Sim
 
 An application with sprite movement and animations
 
@@ -95,11 +95,8 @@ After running the application with either the windows or neko64 builds, use the 
 
   # Screenshots
 
-
-<img src="D:\Documents\University\Game Programming\exercise 1\exercise1 - Ben Puhalski\screenshots\Screenshot Walking.png" style="zoom:75%;" />
-
-<img src="D:\Documents\University\Game Programming\exercise 1\exercise1 - Ben Puhalski\screenshots\Screenshot Left Walking.png" style="zoom:75%;" />
-
+![Screenshot1](/Walking-Sim/screenshots/Screenshot Walking.png)
+![Screenshot2](/Walking-Sim/screenshots/Screenshot Left Walking.png)
 
 
 ## Describe animating

@@ -95,8 +95,8 @@ After running the application with either the windows or neko64 builds, use the 
 
   # Screenshots
 
-![Screenshot1](/screenshots/Screenshot Walking.png)
-![Screenshot2](/screenshots/Screenshot Left Walking.png)
+![Screenshot1](/screenshots/Screenshot-Walking.png)
+![Screenshot2](/screenshots/Screenshot-Left-Walking.png)
 
 
 ## Describe animating

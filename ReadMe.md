@@ -119,11 +119,7 @@ The following applications were used:
 - Blender (The background) 
 - Typora (ReadMe) 
 - HaxeFlixel
-- OBS Studio (Demo) 
-- HandBrake (Demo Compression) 
 
 
-
-**Exercise By: Ben Puhalski**
 
 **September 2020**
